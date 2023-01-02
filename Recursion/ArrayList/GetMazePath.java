@@ -11,6 +11,7 @@ public class GetMazePath {
     {
         //base case
         if(sr==dr && sc==dc)
+
         {
             ArrayList<String> bres = new ArrayList<>();
             bres.add("");

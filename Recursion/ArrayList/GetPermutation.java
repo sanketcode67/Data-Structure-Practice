@@ -16,6 +16,7 @@ public class GetPermutation {
         if (str.length()==0)
         {
             ArrayList<String> bres= new ArrayList<>();
+
             bres.add("");
             return bres;
         }

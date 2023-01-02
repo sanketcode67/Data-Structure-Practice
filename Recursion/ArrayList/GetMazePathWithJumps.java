@@ -14,6 +14,7 @@ public class GetMazePathWithJumps {
         {
             ArrayList<String> bres = new ArrayList<>();
             bres.add("");
+
             return bres;
         }
 

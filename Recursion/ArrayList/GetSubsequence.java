@@ -15,6 +15,7 @@ public class GetSubsequence {
         {
             ArrayList<String> rres = new ArrayList<>();
             rres.add("");
+
             return rres;
         }
 

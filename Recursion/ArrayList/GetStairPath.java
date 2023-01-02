@@ -15,6 +15,7 @@ public class GetStairPath {
         if (n==0){
             ArrayList<String> bres = new ArrayList<>();
             bres.add("");
+
             return bres;
         }
         if(n<0)

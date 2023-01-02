@@ -14,6 +14,7 @@ public class PrintEncoding {
             return;
         }
         int n1 = str.charAt(0)-'0';
+
         if(n1==0)
         {
             return;
