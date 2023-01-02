@@ -10,7 +10,6 @@ public class PrintPermutation {
     {   if(str.length()==0)
         {
             System.out.println(asf);
-
             return;
         }
 
