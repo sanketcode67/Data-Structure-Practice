@@ -19,6 +19,7 @@ public class Recursion {
 
         //i am in this row coloum
 
+
         int r = 1;
 
         int c = 0;
@@ -39,6 +40,7 @@ public class Recursion {
 
 
     }
+
     static void printKnightMove()
     {
         //board size 5 X 5
